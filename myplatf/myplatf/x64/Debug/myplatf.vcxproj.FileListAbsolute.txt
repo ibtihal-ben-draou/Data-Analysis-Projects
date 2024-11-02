@@ -1,0 +1,8 @@
+C:\Users\Hp\Desktop\New folder (7)\myplatf\myplatf\x64\Debug\myplatf.vcxproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\New folder (7)\myplatf\myplatf\x64\Debug\myplatf.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\New folder (7)\myplatf\myplatf\x64\Debug\myplatf.MyForm.resources
+C:\Users\Hp\Desktop\New folder (7)\myplatf\myplatf\x64\Debug\myplatf.vcxproj.GenerateResource.cache
+C:\Users\Hp\Desktop\clé\myplatf\myplatf\x64\Debug\myplatf.vcxproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\clé\myplatf\myplatf\x64\Debug\myplatf.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\clé\myplatf\myplatf\x64\Debug\myplatf.MyForm.resources
+C:\Users\Hp\Desktop\clé\myplatf\myplatf\x64\Debug\myplatf.vcxproj.GenerateResource.cache
